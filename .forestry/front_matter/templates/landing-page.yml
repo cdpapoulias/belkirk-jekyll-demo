@@ -79,4 +79,5 @@ fields:
   hidden: true
   default: home
 pages:
+- here-is-your-name.md
 - index.md
